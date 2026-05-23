@@ -1,0 +1,6 @@
+{
+  "name": "Campus Connect",
+  "description": "A high-fidelity social media platform for university campuses, featuring real-time feed sharing, event calendar, student/alumni connections, campus news, and interactive story sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
